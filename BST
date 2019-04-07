@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include <stdlib.h>
+struct no_tree{
+	int valor;
+
+}
+typedef struct no_tree no;
+
+void em_ordem(){
+
+
+}
+
+void pre_ordem(){
+
+
+}
+
+void pos_ordem(){
+
+
+}
+
+
+
+
+int main(){
+	
+	int c,i,n,a;
+	int s1[]={0};
+	int s2[]={0};
+	scanf("%d",&c);
+	for(i = 0;i < c;i++){
+		scanf("%d",&n);
+			if(0<n<52){
+				for(i=0;i<n;i++){
+					s1[i]=scanf("%d",&a);
+}
+}
+}
+
+return 0;
+}
